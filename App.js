@@ -94,7 +94,7 @@ const styles = StyleSheet.create({
   name: {
     color: '#fff',
     fontSize:20,
-    marginTop:200,
+    marginTop:30,
     textAlign:"center",
   },
   TextStyle: {
